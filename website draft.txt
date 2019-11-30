@@ -165,8 +165,7 @@ input.addEventListener("keyup", function(event) {
     event.preventDefault();
     if (event.keyCode === 13) {
 var input = document.getElementById("searchbar").value;
-     window.location = "https://streamcompany.github.io/stream/gbr?q=" + input;
-}
+     window.location = "https://stellasearch.github.io/stella/gbr?q=" + input;}
 });</script></input>
 	<H3 style="font-family: 'Caviar Dreams', Sans Serif; color: white">Overview</H3>
 		<div type="card"><iframe scrolling="no" style="overflow: hidden;" height="200" src="cards/unusual.html" frameborder="0"></iframe></div>
