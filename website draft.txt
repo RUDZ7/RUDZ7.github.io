@@ -100,7 +100,7 @@
 		<script type="text/javascript">
 		function backnorm(){
 	document.getElementById("1t").innerHTML = "Powered By";
-			document.getElementById("2t").innerHTML = "&nbsp STREAM";
+			document.getElementById("2t").innerHTML = "MADE BY RUDZ";
 			setTimeout("cloudsearch()", 5000);
 	}
 			function cloudsearch(){
@@ -116,7 +116,7 @@
 			</script>
 			<script type="text/javascript">
 	function placeholder() {
-document.getElementById('searchbar')[0].placeholder = 'Search by STREAM.';
+document.getElementById('searchbar')[0].placeholder = 'Search by STELLA.';
 		setTimeout('changeback()', 2000);
 		}
 		function changeback() {
