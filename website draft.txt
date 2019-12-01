@@ -148,7 +148,7 @@ document.getElementById('searchbar')[0].placeholder = 'Search the web...';
     
     window.onload = function() {
         div.parentNode.removeChild(div);
-		document.getElementById("1t").innerHTML = "Made by Hari";
+		document.getElementById("1t").innerHTML = "Made by STELLA AI";
 			document.getElementById("2t").innerHTML = "";
 			setTimeout("backnorm()", "5000");
     }
@@ -172,7 +172,7 @@ var input = document.getElementById("searchbar").value;
 	</div>
 	<div type="render" style="display: inline-block;">.</div>
 	<div type="card"><iframe id="forecast_embed" scrolling="no" style="overflow: hidden;" height="200" src="https://forecast.io/embed/#lat=51.50642&lon=-0.12721&name=London&color=#00aaff&font=Caviar%20Dreams&units=uk" frameborder="0"></iframe></div>
-	<div type="render" style="display: inline-block;">.</div><div type="card"><iframe id="forecast_embed" scrolling="no" style="overflow: hidden;" height="200" src="https://streamcompany.github.io/projectseis/images/phone.html" frameborder="0"></iframe></div></div>
+	<div type="render" style="display: inline-block;">.</div><div type="card"><iframe id="forecast_embed" scrolling="no" style="overflow: hidden;" height="200" src="https://stellaai.github.io/projectseis/images/phone.html" frameborder="0"></iframe></div></div>
 	<div type="render" style="display: inline-block">.</div><div type="card"><iframe id="forecast_embed" scrolling="no" style="overflow: hidden;" height="200px" width="200px" src="https://cdnstream.github.io/advertisingnetwork/ad-box.html" frameborder="0"></iframe></div>
 	
 			</blockquote>
